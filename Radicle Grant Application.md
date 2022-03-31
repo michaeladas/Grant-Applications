@@ -75,9 +75,10 @@ Please describe why you are applying for this grant.
 
 ## Deliverables :nut_and_bolt:
 
-Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
+1. Implementation and Maintenance
+2. Meta Governance 
 
-**Implementation and Maintenance:**
+**1. Implementation and Maintenance:**
 
 Initial implementation and onboarding: $2,480
 
@@ -90,43 +91,48 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 - Frontend Developer (80/hour) - 4 hours on UI fixes, support, and feature additions
 - Team Support and QA ($70/hour) - 4 hours on community and team support
 
-**Meta governance:** 
+**2. Meta Governance:** 
 
 - Governance Delegate - $500 a month, 12 months
 
-Total Funding Request: **$20,480**
 
-- **Total Estimated Duration:** Duration of the whole project
-- **Full-time equivalent (FTE):** Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
-- **Total Costs:** Amount of Payment in USD for the whole project.
+- **Total Estimated Duration:** 12 months
+- **Full-time equivalent (FTE):** Implementation and Maintenance - ~7.2 days & Meta Governance ~1 day 
+- **Total Costs:**  **$20,480**
 
 >️ ❗*The more you can organize your milestones into manageable chunks that are conducive to iteration, the better!*
 
-### Milestone 1
+### Initial Implementation and Onboarding
 
-Please add additional milestones in the same way:
-
-- **Estimated Duration:** Duration of milestone 1
-- **FTE:** Amount of time (in days) required for a single person to complete this milestone
-- **Costs:** Amount of Payment in USD for milestone 1
+- **Estimated Duration:** ~1 week
+- **FTE:** ~1.25 days
+- **Costs:** $2,480
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
-| 2.     | ...                      | ...                                                          |
+| 1.     | Implementation           | Frontend integration and QA                                  |
+| 2.     | Onboarding               | SDK and platform onboarding                                  |
 
-### Milestone 2
+### Ongoing Testing and Support
 
-Please add additional milestones in the same way:
-
-- **Estimated Duration:** Duration of milestone 2
-- **FTE:** Amount of time (in days) required for a single person to complete this milestone
-- **Costs:** Amount of Payment in USD for milestone 2
+- **Estimated Duration:** 12 months
+- **FTE:** 1 days
+- **Costs:** $12,000 = $1,000 a month, 12 months
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Title of the deliverable | Please describe the deliverable here as detailed as possible |
-| 2.     | ...                      | ...                                                          |
+| 1.     | Ongoing support          | Ongoing testing, feature additions, support, and general QA  |
+
+### Meta Governance
+
+- **Estimated Duration:** 12 months
+- **FTE:** 6 days
+- **Costs:** $6,000 = $500 a month, 12 months
+
+
+| Number | Deliverable              | Specification                                                |
+| ------ | ------------------------ | ------------------------------------------------------------ |
+| 1.     | Meta Governance          | Actively participate and engage in Radicle governance        |
 
 ## Future Plans
 
