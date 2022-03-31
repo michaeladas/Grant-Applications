@@ -5,7 +5,6 @@
 - **Payment Address:** Ethereum (USDC) 
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
 
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
@@ -37,7 +36,7 @@ In addition to the frontend and API integrations, Boardroom’s **meta governanc
 ### Contact
 
 - **Contact Name:** Michael Das
-- **Contact Email:** Michaeladas@gmail.com
+- **Contact Email:** michaeladas@gmail.com
 - **Website:**
 
 ### Legal Structure
@@ -50,7 +49,6 @@ In addition to the frontend and API integrations, Boardroom’s **meta governanc
 Boardroom was started as a hackathon project in 2018 by Kevin Nielsen who would carry the idea into a role at TQ Tezos, where he built governance tooling for validators and token holders. The Boardroom founding team soon realized that if projects at the application layer were to adopt governance systems at scale, it would be important to abstract procedural complexities using aggregated governance tooling and services - so they started hacking on Boardroom a year and a half ago. Since then, it's grown to add an amazing team of seven engineers and developers that are passionate about building the future interface and architecture for distributed work, capital, and coordination.
 
 The grant author (Michael Das) is a BizOps and Strategy Associate at Coinbase. At Coinbase, Michael expands products to international markets and building tooling to enable future international growth. He is assisting Boardroom with identifying and applying for protocol grants to facilitate onboarding and integrations for the new application, and will be the point of contact for this submission. 
-
 
 
 ### Team Code Repos
@@ -71,7 +69,7 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Project Description :page_facing_up:
 
-Please describe why you are applying for this grant.
+*This grant will support the onboarding and ongoing maintenance of the Radicle governance dashboard on the new version of the Boardroom application, the integration into the Boardroom API, and meta governance efforts to increase participation from governors in other communities*
 
 ## Deliverables :nut_and_bolt:
 
@@ -95,12 +93,10 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 
 - Governance Delegate - $500 a month, 12 months
 
-
 - **Total Estimated Duration:** 12 months
 - **Full-time equivalent (FTE):** Implementation and Maintenance - ~7.2 days & Meta Governance ~1 day 
 - **Total Costs:**  **$20,480**
 
->️ ❗*The more you can organize your milestones into manageable chunks that are conducive to iteration, the better!*
 
 ### Initial Implementation and Onboarding
 
@@ -111,7 +107,7 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
 | 1.     | Implementation           | Frontend integration and QA                                  |
-| 2.     | Onboarding               | SDK and platform onboarding                                  |
+| 2.     | Onboarding               | Production launch of the dYdX hub on the SDK and API and subsequent release to version 2 of the Boardroom frontend application|
 
 ### Ongoing Testing and Support
 
@@ -132,7 +128,7 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Meta Governance          | Actively participate and engage in Radicle governance        |
+| 1.     | Meta Governance          | First meta governance pod vote on a dYdX proposal.           |
 
 ## Future Plans
 
@@ -145,10 +141,11 @@ Please include the following:
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Medium / Twitter / Discord / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Abbey
 
-Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
+### Goal
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+The goal of the integration is to increase transparency and external stakeholder input into the Radicle governance process. The Boardroom application can provide a single source of information and truth for the grants process, adding a level of disclosure and community participation that will create context and traceability for future proposals. The API also allows any third-party interface and application to easily access Radicle DAO data, governance, and participation information.
+
+The second goal is to establish Boardroom as an involved meta governance participant in the Radicle ecosystem, aligning incentives between both communities, and pushing Boardroom’s mandate for transparency and investment in governance tooling by the DAOs we support.
+
