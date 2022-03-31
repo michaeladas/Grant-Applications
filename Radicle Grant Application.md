@@ -9,10 +9,6 @@
 
 ## Project Overview :page_facing_up:
 
-If this application is in response to an RFP, please indicate this on the first line of this section.
-
-If this is an application for retroactive funding (i.e. work that is completed and committed into a codebase), please drop any related PRs in this section.
-
 ### Overview
 
 Boardroom is a DAO discovery and governance platform, home to hundreds of communities shaping the future of the ownership economy. Our current interface implementation was built to closely mirror the governance process of any DAO or distributed community, regardless of what governance framework they are built on.
@@ -34,29 +30,28 @@ In addition to the frontend and API integrations, Boardroom’s **meta governanc
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Kevin Nielsen
+- Michael Das
+- ?
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. person@dev.com)
+- **Contact Name:** Michael Das
+- **Contact Email:** Michaeladas@gmail.com
 - **Website:**
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. Main Street 1, London N17LJ, United Kingdom)
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Developer DAO Ltd.)
+- **Registered Address:** 6704 Garden Avenue, West Palm Beach, FL 33405, United States
+- **Registered Legal Entity:** Boardroom Labs, Inc.
 
 ### Team's experience
 
-Please describe the team's relevant experience. 
+Boardroom was started as a hackathon project in 2018 by Kevin Nielsen who would carry the idea into a role at TQ Tezos, where he built governance tooling for validators and token holders. The Boardroom founding team soon realized that if projects at the application layer were to adopt governance systems at scale, it would be important to abstract procedural complexities using aggregated governance tooling and services - so they started hacking on Boardroom a year and a half ago. Since then, it's grown to add an amazing team of seven engineers and developers that are passionate about building the future interface and architecture for distributed work, capital, and coordination.
 
-If your project involves development work, please single out a few interesting projects or contributions made by team members in the past. 
+The grant author (Michael Das) is a BizOps and Strategy Associate at Coinbase. At Coinbase, Michael expands products to international markets and building tooling to enable future international growth. He is assisting Boardroom with identifying and applying for protocol grants to facilitate onboarding and integrations for the new application, and will be the point of contact for this submission. 
 
-For research-related grants, references to past publications and projects in a related domain are helpful.
 
-If anyone on your team has applied for a grant at Radicle or elsewhere, please share info on that here.
 
 ### Team Code Repos
 
@@ -71,8 +66,8 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/kevinknielsen/
+- https://www.linkedin.com/in/michael-das-120933111/
 
 ## Project Description :page_facing_up:
 
@@ -81,6 +76,25 @@ Please describe why you are applying for this grant.
 ## Deliverables :nut_and_bolt:
 
 Please list the deliverables of the project in as much detail as possible. Please also estimate the amount of work required and try to divide the project into meaningful milestones.
+
+**Implementation and Maintenance:**
+
+Initial implementation and onboarding: $2,480
+
+- Senior Engineer ($100/hour) - 12 hours of SDK and platform work and QA
+- Frontend Developer (80/hour) - 16 hours on frontend integration work and QA
+
+Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 months
+
+- Senior Engineer ($100/hour) - 4 hours a month on testing and QA
+- Frontend Developer (80/hour) - 4 hours on UI fixes, support, and feature additions
+- Team Support and QA ($70/hour) - 4 hours on community and team support
+
+**Meta governance:** 
+
+- Governance Delegate - $500 a month, 12 months
+
+Total Funding Request: **$20,480**
 
 - **Total Estimated Duration:** Duration of the whole project
 - **Full-time equivalent (FTE):** Amount of time (in days) required for a single person to complete this project ([see](https://en.wikipedia.org/wiki/Full-time_equivalent))
