@@ -25,19 +25,25 @@ The **dashboard** will provide a powerful tool for Radicle governance participan
 
 In addition to the frontend and API integrations, Boardroom’s **meta governance pod** aims to turn proven active governors from other communities into Radicle participants by forming a governance collective. As a holder of Radicle governance tokens, the Governor’s DAO will actively participate and engage in the protocols that Boardroom supports.
 
+### Goal
+
+The goal of the integration is to increase transparency and external stakeholder input into the Radicle governance process. The Boardroom application can provide a single source of information and truth for the grants process, adding a level of disclosure and community participation that will create context and traceability for future proposals. The API also allows any third-party interface and application to easily access Radicle DAO data, governance, and participation information.
+
+The second goal is to establish Boardroom as an involved meta governance participant in the Radicle ecosystem, aligning incentives between both communities, and pushing Boardroom’s mandate for transparency and investment in governance tooling by the DAOs we support.
+
+
 ## Team :busts_in_silhouette:
 
 ### Team members
 
 - Kevin Nielsen
-- Michael Das
 - ?
+- Michael Das
 
 ### Contact
 
 - **Contact Name:** Michael Das
 - **Contact Email:** michaeladas@gmail.com
-- **Website:**
 
 ### Legal Structure
 
@@ -48,7 +54,7 @@ In addition to the frontend and API integrations, Boardroom’s **meta governanc
 
 Boardroom was started as a hackathon project in 2018 by Kevin Nielsen who would carry the idea into a role at TQ Tezos, where he built governance tooling for validators and token holders. The Boardroom founding team soon realized that if projects at the application layer were to adopt governance systems at scale, it would be important to abstract procedural complexities using aggregated governance tooling and services - so they started hacking on Boardroom a year and a half ago. Since then, it's grown to add an amazing team of seven engineers and developers that are passionate about building the future interface and architecture for distributed work, capital, and coordination.
 
-The grant author (Michael Das) is a BizOps and Strategy Associate at Coinbase. At Coinbase, Michael expands products to international markets and building tooling to enable future international growth. He is assisting Boardroom with identifying and applying for protocol grants to facilitate onboarding and integrations for the new application, and will be the point of contact for this submission. 
+The grant author (Michael Das) is a BizOps and Strategy Associate at Coinbase. At Coinbase, Michael expands products to international markets and builds tooling to enable future international growth. He is assisting Boardroom with identifying and applying for protocol grants to facilitate onboarding and integrations for the new application, and will be the point of contact for this submission. 
 
 
 ### Team Code Repos
@@ -135,13 +141,4 @@ Please include the following:
 
 >️ ❗*This is a good place to share how you might like to get more grant funding for future work*
 
-## Additional Information :heavy_plus_sign:
-
-**How did you hear about the Grants Program?** Abbey
-
-### Goal
-
-The goal of the integration is to increase transparency and external stakeholder input into the Radicle governance process. The Boardroom application can provide a single source of information and truth for the grants process, adding a level of disclosure and community participation that will create context and traceability for future proposals. The API also allows any third-party interface and application to easily access Radicle DAO data, governance, and participation information.
-
-The second goal is to establish Boardroom as an involved meta governance participant in the Radicle ecosystem, aligning incentives between both communities, and pushing Boardroom’s mandate for transparency and investment in governance tooling by the DAOs we support.
 
