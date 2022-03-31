@@ -73,23 +73,19 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Deliverables :nut_and_bolt:
 
-1. Implementation and Maintenance
-2. Meta Governance 
-
-**1. Implementation and Maintenance:**
-
-Initial implementation and onboarding: $2,480
+**1. Initial implementation and onboarding: $2,480**
 
 - Senior Engineer ($100/hour) - 12 hours of SDK and platform work and QA
 - Frontend Developer (80/hour) - 16 hours on frontend integration work and QA
 
+**2. Ongoing Testing and Support: $12,000**
 Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 months
 
 - Senior Engineer ($100/hour) - 4 hours a month on testing and QA
 - Frontend Developer (80/hour) - 4 hours on UI fixes, support, and feature additions
 - Team Support and QA ($70/hour) - 4 hours on community and team support
 
-**2. Meta Governance:** 
+**3. Meta Governance: $6,000** 
 
 - Governance Delegate - $500 a month, 12 months
 
