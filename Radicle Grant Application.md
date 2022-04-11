@@ -1,8 +1,8 @@
 # Radicle Grant Application
 
-- **Project Name:** Boardroom Integration
+- **Project Name:** Boardroom 
 - **Team Name:** Boardroom Labs, Inc.
-- **Payment Address:** Ethereum (USDC) 
+- **Payment Address:** 0x767f946f97f108A10B11d4827eB52E76b2CaBA77 (Ethereum)
 - **[Level](https://github.com/radicle-dev/radicle-grants#levels):** 🌱-Seed
 
 
@@ -23,7 +23,9 @@ The **dashboard** will provide a powerful tool for Radicle governance participan
 - Create proposals through a standardized and templatized interface
 - Browse additional project treasury information and relevant resources
 
-In addition to the frontend and API integrations, Boardroom’s **meta governance pod** aims to turn proven active governors from other communities into Radicle participants by forming a governance collective. As a holder of Radicle governance tokens, the Governor’s DAO will actively participate and engage in the protocols that Boardroom supports.
+The API and SDK allow any third-party interface and project to support Radicle’s governance with one seamless integration. Support will be immediately available to anyone already using the Boardroom API.
+
+In addition to the frontend and API integrations, Boardroom’s **meta governance pod** aims to form an internal governance collective to delegate votes received as a service provider to a delegate that we believe upholds the values and ideals of the Boardroom community. As a holder of Radicle governance tokens, the Boardroom governance collective will actively participate and engage in the protocols that Boardroom supports.
 
 ### Goal
 
@@ -37,13 +39,12 @@ The second goal is to establish Boardroom as an involved meta governance partici
 ### Team members
 
 - Kevin Nielsen
-- ?
 - Michael Das
 
 ### Contact
 
 - **Contact Name:** Michael Das
-- **Contact Email:** michaeladas@gmail.com
+- **Contact Email:** michael@boardroom.info
 
 ### Legal Structure
 
@@ -54,19 +55,8 @@ The second goal is to establish Boardroom as an involved meta governance partici
 
 Boardroom was started as a hackathon project in 2018 by Kevin Nielsen who would carry the idea into a role at TQ Tezos, where he built governance tooling for validators and token holders. The Boardroom founding team soon realized that if projects at the application layer were to adopt governance systems at scale, it would be important to abstract procedural complexities using aggregated governance tooling and services - so they started hacking on Boardroom a year and a half ago. Since then, it's grown to add an amazing team of seven engineers and developers that are passionate about building the future interface and architecture for distributed work, capital, and coordination.
 
-The grant author (Michael Das) is a BizOps and Strategy Associate at Coinbase. At Coinbase, Michael expands products to international markets and builds tooling to enable future international growth. He is assisting Boardroom with identifying and applying for protocol grants to facilitate onboarding and integrations for the new application, and will be the point of contact for this submission. 
+The grant author (Michael Das) is a BizOps and Strategy Associate at Coinbase. At Coinbase, Michael expands products to international markets and builds tooling to enable future international growth. He is assists Boardroom with identifying and applying for protocol grants to facilitate onboarding and integrations for the new application, and will be the point of contact for this submission. 
 
-
-### Team Code Repos
-
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects/repos hosted elsewhere are also fine.
-
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
 
 ### Team LinkedIn Profiles (if available)
 
@@ -79,17 +69,17 @@ Please also provide the GitHub accounts of all team members. If they contain no 
 
 ## Deliverables :nut_and_bolt:
 
-**1. Initial implementation and onboarding: $2,480**
+**1. Initial implementation and onboarding: $3,400**
 
-- Senior Engineer ($100/hour) - 12 hours of SDK and platform work and QA
-- Frontend Developer (80/hour) - 16 hours on frontend integration work and QA
+- Senior Engineer ($150/hour) - 12 hours of SDK and platform work and QA
+- Frontend Developer ($100/hour) - 16 hours on frontend integration work and QA
 
-**2. Ongoing Testing and Support: $12,000**
-Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 months
+**2. Ongoing Testing and Support: $15,840**
+Ongoing testing, feature additions, support, and general QA: $1,320 a month, 12 months
 
-- Senior Engineer ($100/hour) - 4 hours a month on testing and QA
-- Frontend Developer (80/hour) - 4 hours on UI fixes, support, and feature additions
-- Team Support and QA ($70/hour) - 4 hours on community and team support
+- Senior Engineer ($150/hour) - 4 hours a month on testing and QA
+- Frontend Developer ($100/hour) - 4 hours on UI fixes, support, and feature additions
+- Team Support and QA ($80/hour) - 4 hours on community and team support
 
 **3. Meta Governance: $6,000** 
 
@@ -97,14 +87,14 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 
 - **Total Estimated Duration:** 12 months
 - **Full-time equivalent (FTE):** Implementation and Maintenance - ~7.2 days & Meta Governance ~1 day 
-- **Total Costs:**  **$20,480**
+- **Total Costs:**  **$25,240**
 
 
 ### Initial Implementation and Onboarding
 
 - **Estimated Duration:** ~1 week
 - **FTE:** ~1.25 days
-- **Costs:** $2,480
+- **Costs:** $3,400
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
@@ -114,8 +104,8 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 ### Ongoing Testing and Support
 
 - **Estimated Duration:** 12 months
-- **FTE:** 1 days
-- **Costs:** $12,000 = $1,000 a month, 12 months
+- **FTE:** ~6 days
+- **Costs:** $15,840 = $1,320 a month, 12 months
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
@@ -124,21 +114,11 @@ Ongoing testing, feature additions, support, and general QA: $1,000 a month, 12 
 ### Meta Governance
 
 - **Estimated Duration:** 12 months
-- **FTE:** 6 days
+- **FTE:** ~1 day
 - **Costs:** $6,000 = $500 a month, 12 months
 
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
 | 1.     | Meta Governance          | First meta governance pod vote on a dYdX proposal.           |
-
-## Future Plans
-
-Please include the following:
-
-- How you intend to use, enhance, promote and support your project in the short term
-- The team's long-term plans and intentions in relation to it. In other words, how will it be made sustainable?
-
->️ ❗*This is a good place to share how you might like to get more grant funding for future work*
-
 
