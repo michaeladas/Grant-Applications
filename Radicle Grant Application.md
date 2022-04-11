@@ -99,7 +99,7 @@ Ongoing testing, feature additions, support, and general QA: $1,320 a month, 12 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
 | 1.     | Implementation           | Frontend integration and QA                                  |
-| 2.     | Onboarding               | Production launch of the dYdX hub on the SDK and API and subsequent release to version 2 of the Boardroom frontend application|
+| 2.     | Onboarding               | Production launch of the Radicle hub on the SDK and API and subsequent release to version 2 of the Boardroom frontend application|
 
 ### Ongoing Testing and Support
 
@@ -120,5 +120,5 @@ Ongoing testing, feature additions, support, and general QA: $1,320 a month, 12 
 
 | Number | Deliverable              | Specification                                                |
 | ------ | ------------------------ | ------------------------------------------------------------ |
-| 1.     | Meta Governance          | First meta governance pod vote on a dYdX proposal.           |
+| 1.     | Meta Governance          | First meta governance pod vote on a Radicle proposal.           |
 
